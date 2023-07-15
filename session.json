@@ -1,0 +1,23 @@
+{
+  role: "Learner",
+  classrooms: ["63b78e5b6df7c209333ad70e", "63e37375b8622007b7b369c7"],
+  assignmentHistory: [
+    "63e5f0bc6fb365079ccac360",
+    "63e5f1366fb365079ccac4c9",
+    "63e5f2dcbffd2307d143fc75",
+    "63ef00735657ae07df168ac0",
+    "63ef00e8b8622007b7b563d6",
+    "63ef0224bffd2307d1454c99",
+    "63f87444bffd2307d14714bb",
+    "6401a424a4666607a94517b4",
+    "6401a710bffd2307d1498009",
+    "640290dfa4666607a9456415",
+    "641b101d7ca24996eb5c945d",
+  ],
+  _id: "63b7f3729ddc4d334a71d60b",
+  email: "65070242@----.ac.th",
+  name: "Supasss",
+  picture:
+    "https://lh3.googleusercontent.com/a/AAcHTtfzQkgbLfpzqfoGMVVE7xGKDOw4gkQLqvTjgvfUTfdIsgU=s96-c",
+  __v: 0,
+};
