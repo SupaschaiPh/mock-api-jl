@@ -1,8 +1,8 @@
 {
-      _id: "640bfe6c9a53a2971e9354a1",
-      length: 2532057,
-      chunkSize: 261120,
-      uploadDate: "2023-03-11T04:07:08.658Z",
-      filename: "chapter-E01.pdf",
-      md5: "7a3944a8fa6539651edf361e32eea289",
-    }
+   "_id":"640bfe6c9a53a2971e9354a1",
+   "length":2532057,
+   "chunkSize":261120,
+   "uploadDate":"2023-03-11T04:07:08.658Z",
+   "filename":"chapter-E01.pdf",
+   "md5":"7a3944a8fa6539651edf361e32eea289"
+}
