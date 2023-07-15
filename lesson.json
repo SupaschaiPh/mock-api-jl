@@ -1,64 +1,85 @@
 {
-  lessons: [
-    {
-      start_date: null,
-      end_date: null,
-      tags: [],
-      assignments: [],
-      files: ["63b7e305574e78095089248b", "63b7dfce6df7c209333ad747"],
-      type: "lesson",
-      hide: false,
-      order: 0,
-      _id: "63b7dcbf435af309422a990f",
-      title: "Overview in This Course",
-      description:
-        '<ul>\n<li>\n<h2 style="text-align: left;">ติดตั้งโปรแกรม <strong>Netbeans และ JDK</strong></h2>\n<ul style="text-align: left;">\n<li><strong>ติดตั้ง JDK ver 17 ก่อน</strong><br /><a href="https://www.oracle.com/java/technologies/downloads/#jdk17-windows">https://www.oracle.com/java/technologies/downloads/#jdk17-windows</a></li>\n<li><strong>ติดตั้ง Apache Netbeans 14<br /></strong><a href="https://netbeans.apache.org/download/nb14/index.html">https://netbeans.apache.org/download/nb14/index.html</a></li>\n</ul>\n</li>\n</ul>\n<p style="padding-left: 40px; text-align: left;"><em>หมายเหตุ ตอนติดตั้ง Apache Netbeans 14 อาจจะไม่จำเป็นต้องเลือกติดตั้ง JAVA EE และ PHP ก็ได้</em></p>\n<ul style="list-style-type: circle;">\n<li style="text-align: left;">\n<h2>เอกสารคำชี้แจงรายวิชา (CourseOutline2023.pdf) มีให้ดาวโหลดตรงเอกสารแนบ&nbsp;</h2>\n</li>\n<li>\n<h2 style="text-align: left;">Google Sheet สำหรับเช็คการส่ง Lab Sheet&nbsp;</h2>\n<ul>\n<li style="text-align: left;"><span style="color: #e03e2d;"><a href="https://docs.google.com/spreadsheets/d/1OgX4HuA0130bg1AHL9__DgOW_dYApTBIUfZm2_XjS6Q/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/spreadsheets/d/1OgX4HuA0130bg1AHL9__DgOW_dYApTBIUfZm2_XjS6Q/edit?usp=sharing</a></span></li>\n</ul>\n</li>\n<li>\n<h2 style="text-align: left;">ลิงค์รายวิชาในระบบ Onlearn</h2>\n</li>\n<ul>\n<li style="text-align: left;">\n<p style="color: #e03e2d;">https://onlearn.it.kmitl.ac.th/course/view.php?id=1165</p>\n</li>\n</ul>\n<li>\n<h2 style="text-align: left;">แจ้งลาเรียน&nbsp;</h2>\n<ul>\n<li>\n<p style="text-align: left;"><span style="font-size: 14pt;">ให้นักศึกษาแจ้งผ่าน Google Form หลังจากกรอกรายละเอียดเสร็จให้พิมพ์แจ้งผมทาง Face chat อีกรอบครับ</span></p>\n</li>\n<li style="text-align: left;"><a href="https://forms.gle/d9zymLtzuf1AEjKZA" target="_blank" rel="noopener">https://forms.gle/d9zymLtzuf1AEjKZA</a></li>\n</ul>\n</li>\n<li style="text-align: left;">\n<h2>จองคิวส่งงานและดูคิว</h2>\n<ul>\n<li style="text-align: left;"><span style="color: #e03e2d;"><span style="font-size: 14pt; color: #000000;"><strong>จองคิวส่งงาน </strong></span>(<a href="https://forms.gle/vjv22Xh6yfYHHc5q7">https://forms.gle/vjv22Xh6yfYHHc5q7</a>)</span></li>\n<li><span style="color: #e03e2d;"><span style="font-size: 14pt; color: #000000;"><strong>ดูคิวส่งงาน </strong></span>(<a href="https://docs.google.com/spreadsheets/d/1ADsFbrhCQT448xzf_ImpZWOJnrqU5MPHQBSMgGWOtl4/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/spreadsheets/d/1ADsFbrhCQT448xzf_ImpZWOJnrqU5MPHQBSMgGWOtl4/edit?usp=sharing</a>)</span></li>\n</ul>\n</li>\n<li>\n<h2 style="text-align: left;">จองและดูคิวพี่ ๆ TA ภาคทฤษฎี (ตัดรอบ 22:00 น. วันอาทิตย์ของทุกสัปดาห์)</h2>\n<ul>\n<li style="text-align: left;"><a href="https://docs.google.com/spreadsheets/d/1NELbfrUTob_PPTdezTIF4wDzugRybVkqVBX1UwVHpDo/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1NELbfrUTob_PPTdezTIF4wDzugRybVkqVBX1UwVHpDo/edit?usp=sharing (ดูคิว)</a></li>\n<li style="text-align: left;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeE_NtDv6AMB4NNiQau9QqDlgiT5fh7__rER4MxhUxtwMUxNw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeE_NtDv6AMB4NNiQau9QqDlgiT5fh7__rER4MxhUxtwMUxNw/viewform</a> (จองคิว)</li>\n</ul>\n</li>\n</ul>',
-      classroomId: "63b78e5b6df7c209333ad70e",
-      passwords: [],
-      __v: 0,
-    },
-    {
-      start_date: null,
-      end_date: null,
-      tags: [],
-      assignments: [],
-      files: ["63bbd2551ff5d733a16795bd", "63bb8462b7466833d624546d"],
-      type: "lesson",
-      hide: false,
-      order: 4,
-      _id: "63bb8462b7466833d624546f",
-      title: "บทที่ 0 แนะนำรายวิชาการโปรแกรมเชิงวัตถุ (mock text only)",
-      description:
-        "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?",
-      classroomId: "63b78e5b6df7c209333ad70e",
-      passwords: [],
-      __v: 0,
-    },
-    {
-      start_date: null,
-      end_date: null,
-      tags: [],
-      assignments: [],
-      files: [
-        "63c951796d2ef233b6f59474",
-        "63c50f4122ba353371119879",
-        "63bbd276d8ca53334c4da49a",
-        "63bbd276d8ca53334c4da49b",
-        "63c951796d2ef233b6f59474",
-        "63c50f4122ba353371119879",
-        "63bbd276d8ca53334c4da49a",
-        "63bbd276d8ca53334c4da49b",
-      ],
-      type: "lesson",
-      hide: false,
-      order: 5,
-      _id: "63bbd276d8ca53334c4da49d",
-      title: "บทที่ 1 ความรู้เบื้องต้นของภาษาจาวา ",
-      description:
-        '<h2 style="text-align: left;">วีดิโอดูทบทวนบทที่ 1&nbsp;</h2>\n<p style="text-align: left;"><iframe src="https://www.youtube.com/embed/c0BTLvIQ7_g" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>\n<h2 style="text-align: left;">วีดิโอบทเสริมเกี่ยวกับตัวดำเนินการ</h2>\n<p style="text-align: left;"><iframe src="https://www.youtube.com/embed/ZOl-jrW10aQ" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>\n<h2 style="text-align: left;">วีดิโอแนะนำการใช้งานโปรแกรม Netbean</h2>\n<p style="text-align: left;"><iframe src="https://www.youtube.com/embed/1ScSTxTmRhk" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>',
-      classroomId: "63b78e5b6df7c209333ad70e",
-      passwords: [],
-      __v: 0,
-    },
-  ],
+   "lessons":[
+      {
+         "start_date":null,
+         "end_date":null,
+         "tags":[
+            
+         ],
+         "assignments":[
+            
+         ],
+         "files":[
+            "63b7e305574e78095089248b",
+            "63b7dfce6df7c209333ad747"
+         ],
+         "type":"lesson",
+         "hide":false,
+         "order":0,
+         "_id":"63b7dcbf435af309422a990f",
+         "title":"Overview in This Course",
+         "description":"<ul>\n<li>\n<h2 style=\"text-align: left;\">ติดตั้งโปรแกรม <strong>Netbeans และ JDK</strong></h2>\n<ul style=\"text-align: left;\">\n<li><strong>ติดตั้ง JDK ver 17 ก่อน</strong><br /><a href=\"https://www.oracle.com/java/technologies/downloads/#jdk17-windows\">https://www.oracle.com/java/technologies/downloads/#jdk17-windows</a></li>\n<li><strong>ติดตั้ง Apache Netbeans 14<br /></strong><a href=\"https://netbeans.apache.org/download/nb14/index.html\">https://netbeans.apache.org/download/nb14/index.html</a></li>\n</ul>\n</li>\n</ul>\n<p style=\"padding-left: 40px; text-align: left;\"><em>หมายเหตุ ตอนติดตั้ง Apache Netbeans 14 อาจจะไม่จำเป็นต้องเลือกติดตั้ง JAVA EE และ PHP ก็ได้</em></p>\n<ul style=\"list-style-type: circle;\">\n<li style=\"text-align: left;\">\n<h2>เอกสารคำชี้แจงรายวิชา (CourseOutline2023.pdf) มีให้ดาวโหลดตรงเอกสารแนบ&nbsp;</h2>\n</li>\n<li>\n<h2 style=\"text-align: left;\">Google Sheet สำหรับเช็คการส่ง Lab Sheet&nbsp;</h2>\n<ul>\n<li style=\"text-align: left;\"><span style=\"color: #e03e2d;\"><a href=\"https://docs.google.com/spreadsheets/d/1OgX4HuA0130bg1AHL9__DgOW_dYApTBIUfZm2_XjS6Q/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">https://docs.google.com/spreadsheets/d/1OgX4HuA0130bg1AHL9__DgOW_dYApTBIUfZm2_XjS6Q/edit?usp=sharing</a></span></li>\n</ul>\n</li>\n<li>\n<h2 style=\"text-align: left;\">ลิงค์รายวิชาในระบบ Onlearn</h2>\n</li>\n<ul>\n<li style=\"text-align: left;\">\n<p style=\"color: #e03e2d;\">https://onlearn.it.kmitl.ac.th/course/view.php?id=1165</p>\n</li>\n</ul>\n<li>\n<h2 style=\"text-align: left;\">แจ้งลาเรียน&nbsp;</h2>\n<ul>\n<li>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt;\">ให้นักศึกษาแจ้งผ่าน Google Form หลังจากกรอกรายละเอียดเสร็จให้พิมพ์แจ้งผมทาง Face chat อีกรอบครับ</span></p>\n</li>\n<li style=\"text-align: left;\"><a href=\"https://forms.gle/d9zymLtzuf1AEjKZA\" target=\"_blank\" rel=\"noopener\">https://forms.gle/d9zymLtzuf1AEjKZA</a></li>\n</ul>\n</li>\n<li style=\"text-align: left;\">\n<h2>จองคิวส่งงานและดูคิว</h2>\n<ul>\n<li style=\"text-align: left;\"><span style=\"color: #e03e2d;\"><span style=\"font-size: 14pt; color: #000000;\"><strong>จองคิวส่งงาน </strong></span>(<a href=\"https://forms.gle/vjv22Xh6yfYHHc5q7\">https://forms.gle/vjv22Xh6yfYHHc5q7</a>)</span></li>\n<li><span style=\"color: #e03e2d;\"><span style=\"font-size: 14pt; color: #000000;\"><strong>ดูคิวส่งงาน </strong></span>(<a href=\"https://docs.google.com/spreadsheets/d/1ADsFbrhCQT448xzf_ImpZWOJnrqU5MPHQBSMgGWOtl4/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">https://docs.google.com/spreadsheets/d/1ADsFbrhCQT448xzf_ImpZWOJnrqU5MPHQBSMgGWOtl4/edit?usp=sharing</a>)</span></li>\n</ul>\n</li>\n<li>\n<h2 style=\"text-align: left;\">จองและดูคิวพี่ ๆ TA ภาคทฤษฎี (ตัดรอบ 22:00 น. วันอาทิตย์ของทุกสัปดาห์)</h2>\n<ul>\n<li style=\"text-align: left;\"><a href=\"https://docs.google.com/spreadsheets/d/1NELbfrUTob_PPTdezTIF4wDzugRybVkqVBX1UwVHpDo/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1NELbfrUTob_PPTdezTIF4wDzugRybVkqVBX1UwVHpDo/edit?usp=sharing (ดูคิว)</a></li>\n<li style=\"text-align: left;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeE_NtDv6AMB4NNiQau9QqDlgiT5fh7__rER4MxhUxtwMUxNw/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSeE_NtDv6AMB4NNiQau9QqDlgiT5fh7__rER4MxhUxtwMUxNw/viewform</a> (จองคิว)</li>\n</ul>\n</li>\n</ul>",
+         "classroomId":"63b78e5b6df7c209333ad70e",
+         "passwords":[
+            
+         ],
+         "__v":0
+      },
+      {
+         "start_date":null,
+         "end_date":null,
+         "tags":[
+            
+         ],
+         "assignments":[
+            
+         ],
+         "files":[
+            "63bbd2551ff5d733a16795bd",
+            "63bb8462b7466833d624546d"
+         ],
+         "type":"lesson",
+         "hide":false,
+         "order":4,
+         "_id":"63bb8462b7466833d624546f",
+         "title":"บทที่ 0 แนะนำรายวิชาการโปรแกรมเชิงวัตถุ (mock text only)",
+         "description":"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?",
+         "classroomId":"63b78e5b6df7c209333ad70e",
+         "passwords":[
+            
+         ],
+         "__v":0
+      },
+      {
+         "start_date":null,
+         "end_date":null,
+         "tags":[
+            
+         ],
+         "assignments":[
+            
+         ],
+         "files":[
+            "63c951796d2ef233b6f59474",
+            "63c50f4122ba353371119879",
+            "63bbd276d8ca53334c4da49a",
+            "63bbd276d8ca53334c4da49b",
+            "63c951796d2ef233b6f59474",
+            "63c50f4122ba353371119879",
+            "63bbd276d8ca53334c4da49a",
+            "63bbd276d8ca53334c4da49b"
+         ],
+         "type":"lesson",
+         "hide":false,
+         "order":5,
+         "_id":"63bbd276d8ca53334c4da49d",
+         "title":"บทที่ 1 ความรู้เบื้องต้นของภาษาจาวา ",
+         "description":"<h2 style=\"text-align: left;\">วีดิโอดูทบทวนบทที่ 1&nbsp;</h2>\n<p style=\"text-align: left;\"><iframe src=\"https://www.youtube.com/embed/bKAKipGGnf4\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h2 style=\"text-align: left;\">วีดิโอบทเสริมเกี่ยวกับตัวดำเนินการ</h2>\n<p style=\"text-align: left;\"><iframe src=\"https://www.youtube.com/embed/bKAKipGGnf4\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h2 style=\"text-align: left;\">วีดิโอแนะนำการใช้งานโปรแกรม Netbean</h2>\n<p style=\"text-align: left;\"><iframe src=\"https://www.youtube.com/embed/1ScSTxTmRhk\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+         "classroomId":"63b78e5b6df7c209333ad70e",
+         "passwords":[
+            
+         ],
+         "__v":0
+      }
+   ]
 }
