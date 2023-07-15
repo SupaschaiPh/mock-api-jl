@@ -1,8 +1,8 @@
 {
-      _id: "63bbd2551ff5d733a16795bd",
-      length: 466023,
-      chunkSize: 261120,
-      uploadDate: "2023-01-09T08:37:41.840Z",
-      filename: "chap_0_วิธีการสร้างโปรเจคด้วยโปรแกรมNetbean.pdf",
-      md5: "fbbf556aef6f644ed571ec40a4e3d99f",
-    }
+   "_id":"63bbd2551ff5d733a16795bd",
+   "length":466023,
+   "chunkSize":261120,
+   "uploadDate":"2023-01-09T08:37:41.840Z",
+   "filename":"chap_0_วิธีการสร้างโปรเจคด้วยโปรแกรมNetbean.pdf",
+   "md5":"fbbf556aef6f644ed571ec40a4e3d99f"
+}
