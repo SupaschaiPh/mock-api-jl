@@ -81,5 +81,39 @@
          ],
          "__v":0
       }
+   ],
+   "users": [
+        {
+            "role": "Lecturer",
+            "_id": "",
+            "user_id": {
+                "role": "Lecturer",
+                "classrooms": [
+                ],
+                "assignmentHistory": [
+                ],
+                "_id": "",
+                "email": "tttt@it.kmitl.ac.th",
+                "name": "T T",
+                "picture": "",
+                "__v": 0
+            }
+        },
+        {
+            "role": "Learner",
+            "_id": "",
+            "user_id": {
+                "role": "Learner",
+                "classrooms": [
+                ],
+                "assignmentHistory": [
+                ],
+                "_id": "",
+                "email": "6500000@kmitl.ac.th",
+                "name": "Vi Ch",
+                "picture": "",
+                "__v": 0
+            }
+        }
    ]
 }
